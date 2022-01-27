@@ -1,0 +1,20 @@
+A:\school KEKW\semester 4\PROG1815 - Programming Concepts II\InClass1\InClass 1 - David Gordon\bin\Debug\InClass 1 - David Gordon.exe.config
+A:\school KEKW\semester 4\PROG1815 - Programming Concepts II\InClass1\InClass 1 - David Gordon\bin\Debug\InClass 1 - David Gordon.exe
+A:\school KEKW\semester 4\PROG1815 - Programming Concepts II\InClass1\InClass 1 - David Gordon\bin\Debug\InClass 1 - David Gordon.pdb
+A:\school KEKW\semester 4\PROG1815 - Programming Concepts II\InClass1\InClass 1 - David Gordon\obj\Debug\InClass 1 - David Gordon.csproj.AssemblyReference.cache
+A:\school KEKW\semester 4\PROG1815 - Programming Concepts II\InClass1\InClass 1 - David Gordon\obj\Debug\InClass_1___David_Gordon.Form1.resources
+A:\school KEKW\semester 4\PROG1815 - Programming Concepts II\InClass1\InClass 1 - David Gordon\obj\Debug\InClass_1___David_Gordon.Properties.Resources.resources
+A:\school KEKW\semester 4\PROG1815 - Programming Concepts II\InClass1\InClass 1 - David Gordon\obj\Debug\InClass 1 - David Gordon.csproj.GenerateResource.cache
+A:\school KEKW\semester 4\PROG1815 - Programming Concepts II\InClass1\InClass 1 - David Gordon\obj\Debug\InClass 1 - David Gordon.csproj.CoreCompileInputs.cache
+A:\school KEKW\semester 4\PROG1815 - Programming Concepts II\InClass1\InClass 1 - David Gordon\obj\Debug\InClass 1 - David Gordon.exe
+A:\school KEKW\semester 4\PROG1815 - Programming Concepts II\InClass1\InClass 1 - David Gordon\obj\Debug\InClass 1 - David Gordon.pdb
+A:\school KEKW\semester 4\PROG1815 - Programming Concepts II\InClass 1 - David Gordon\InClass 1 - David Gordon\bin\Debug\InClass 1 - David Gordon.exe.config
+A:\school KEKW\semester 4\PROG1815 - Programming Concepts II\InClass 1 - David Gordon\InClass 1 - David Gordon\bin\Debug\InClass 1 - David Gordon.exe
+A:\school KEKW\semester 4\PROG1815 - Programming Concepts II\InClass 1 - David Gordon\InClass 1 - David Gordon\bin\Debug\InClass 1 - David Gordon.pdb
+A:\school KEKW\semester 4\PROG1815 - Programming Concepts II\InClass 1 - David Gordon\InClass 1 - David Gordon\obj\Debug\InClass 1 - David Gordon.csproj.AssemblyReference.cache
+A:\school KEKW\semester 4\PROG1815 - Programming Concepts II\InClass 1 - David Gordon\InClass 1 - David Gordon\obj\Debug\InClass_1___David_Gordon.Calculator.resources
+A:\school KEKW\semester 4\PROG1815 - Programming Concepts II\InClass 1 - David Gordon\InClass 1 - David Gordon\obj\Debug\InClass_1___David_Gordon.Properties.Resources.resources
+A:\school KEKW\semester 4\PROG1815 - Programming Concepts II\InClass 1 - David Gordon\InClass 1 - David Gordon\obj\Debug\InClass 1 - David Gordon.csproj.GenerateResource.cache
+A:\school KEKW\semester 4\PROG1815 - Programming Concepts II\InClass 1 - David Gordon\InClass 1 - David Gordon\obj\Debug\InClass 1 - David Gordon.csproj.CoreCompileInputs.cache
+A:\school KEKW\semester 4\PROG1815 - Programming Concepts II\InClass 1 - David Gordon\InClass 1 - David Gordon\obj\Debug\InClass 1 - David Gordon.exe
+A:\school KEKW\semester 4\PROG1815 - Programming Concepts II\InClass 1 - David Gordon\InClass 1 - David Gordon\obj\Debug\InClass 1 - David Gordon.pdb
