@@ -40,7 +40,11 @@ namespace Calculator
         private void btnClearE_Click(object sender, EventArgs e)
         {
             string text = lblInput.Text;
-            lblInput.Text = lblInput.Text.Substring(0, (text.Length - 1));
+            if(lblInput.Text.Length != 0)
+            {
+                lblInput.Text = lblInput.Text.Substring(0, (text.Length - 1));
+            }
+            else;
         }
 
         private void btnEquals_Click(object sender, EventArgs e)
